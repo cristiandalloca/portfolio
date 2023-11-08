@@ -150,6 +150,7 @@ body {
 
     .cabecalho-menu-item {
         font-size: 1.30rem;
+        word-spacing: -0.15rem;
     }
 
     .apresentacao-conteudo-social-link {
@@ -158,6 +159,10 @@ body {
 
     .apresentacao-imagem {
         width: 80%;
+    }
+
+    .rodape {
+        font-size: 1.35rem ;
     }
     
 }
